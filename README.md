@@ -9,6 +9,7 @@ I understand how we Can Implement. I want to know scenario where you want to add
 Need the below Details: 
 Integration Requirement:
 we need the below json request.
+We can load  from Api or locally from json assets.
 Json request:
 {
   "apiVersion": 2,
@@ -83,6 +84,8 @@ See the below Response object Example:
 }
 The above response needs to send our backend service or Payment Service Provider (PSP).
 Need API, which send above response to our backend (Database)
+The below link for backend:
+https://developers.google.com/pay/api/android/reference/response-objects
 
 Google Pay Integration in Flutter (android app) 
 In Flutter have pay: ^1.0.11 package which is official developed by Google. we will be using this package.
