@@ -3,11 +3,6 @@
 A new Flutter project.
 
 ## Getting Started
-
-I read given Documents that you send yesterday.  it is about token integration and plan. Basically, Google Pay securely returns a payment token along with details about the purchase, which detail need send our backend. 
-I understand how we Can Implement. I want to know scenario where you want to add and some discussion need.
-Need the below Details: 
-Integration Requirement:
 we need the below json request.
 We can load  from Api or locally from json assets.
 Json request:
